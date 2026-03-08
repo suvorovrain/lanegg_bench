@@ -1,0 +1,7 @@
+metric         | Lanegg_card | RPQ-matrix 
+---------------+-------------+------------
+Total, ms      | 355 226.183 | 811 447.421
+Mean, ms       | 7 893.915   | 18 032.165 
+Median, ms     | 3 013.410   | 5 516.711  
+Mean speedup   | 7.88        | 1.00       
+Median speedup | 2.52        | 1.00       
