@@ -31,7 +31,7 @@ The benchmarks were conducted on a machine with the following specifications.
 - OS: Linux Ubuntu 22.04;
 
 ## Results
-
+*The standard deviation of measurements for all queries does not exceed 5 % of the mean.*
 ### any-to-any queries
 **1. RPQBench**
 
