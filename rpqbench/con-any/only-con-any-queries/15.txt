@@ -1,0 +1,4 @@
+1,<Inproceeding1438> <partOf>/<editor>/(<predecessor>|<coauthor>)* ?obj
+1,<Inproceeding1438> <partOf>/<editor>/(<predecessor>|<coauthor>)* ?obj
+1,<Inproceeding1438> <partOf>/<editor>/(<predecessor>|<coauthor>)* ?obj
+1,<Inproceeding1438> <partOf>/<editor>/(<predecessor>|<coauthor>)* ?obj

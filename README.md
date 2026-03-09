@@ -84,3 +84,19 @@ The following conclusions can be drawn from the experimental results.
 3. In the vast majority of cases, the **query plan optimization time** is negligible compared to the **query execution time**. This indicates that additional improvements to the optimizer (e.g., more sophisticated cost models or heuristics) can be introduced without significantly affecting the overall runtime.
 
 4. As can be observed from the tables and [detailed](lanegg_bench/wikidata/con-any/benchmark_summary_compact_ms.txt) Wikidata results, the **Kleene star operation** often leads to slower execution of LaneggRPQ. This behavior suggests possible optimizations for the computation of transitive closure for specific cases.
+
+## Reproducibility
+
+The solvers used in the experiments, along with instructions for running them, can be found in the following GitHub repositories:
+
+- [LaneggRPQ](https://github.com/SparseLinearAlgebra/la-n-egg-rpq)
+- [RPQ-Matrix](https://github.com/adriangbrandon/rpq-matrix)
+
+If you encounter memory usage errors when running **RPQ-Matrix**, consider applying [this fix](https://github.com/adriangbrandon/rpq-matrix/pull/1).
+
+Note that for some queries the original implementation of **RPQ-Matrix** may produce incorrect results due to an issue in the matrix construction function.  
+A corrected version based on **SuiteSparse:GraphBLAS**, which produces consistent results, is available [here](https://github.com/suvorovrain/rpq-matrix/tree/gbmod).
+
+All datasets used in the experiments, as well as the tools required for preparing them, are available in the [la-rpq](https://github.com/SparseLinearAlgebra/la-rpq) repository (thanks to [George Belyanin](https://github.com/georgiy-belyanin)).
+
+The queries used in the benchmarks are provided in the corresponding dataset folders in this repository.

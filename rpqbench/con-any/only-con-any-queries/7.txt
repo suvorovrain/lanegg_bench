@@ -1,0 +1,4 @@
+1,<Estevan_Olufson> (<coauthor>)*/<predecessor> ?obj
+1,<Estevan_Olufson> (<coauthor>)*/<predecessor> ?obj
+1,<Estevan_Olufson> (<coauthor>)*/<predecessor> ?obj
+1,<Estevan_Olufson> (<coauthor>)*/<predecessor> ?obj

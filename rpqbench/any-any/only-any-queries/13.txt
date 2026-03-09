@@ -1,0 +1,4 @@
+1,?sub <partOf>/<editor>/(<predecessor>|<coauthor>) ?obj
+2,?sub <partOf>/<editor>/(<predecessor>|<coauthor>) ?obj
+1,?sub <partOf>/<editor>/(<predecessor>|<coauthor>) ?obj
+2,?sub <partOf>/<editor>/(<predecessor>|<coauthor>) ?obj

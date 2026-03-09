@@ -1,0 +1,4 @@
+1,?sub <references>/<cite>/<creator> ?obj
+2,?sub <references>/<cite>/<creator> ?obj
+1,?sub <references>/<cite>/<creator> ?obj
+2,?sub <references>/<cite>/<creator> ?obj

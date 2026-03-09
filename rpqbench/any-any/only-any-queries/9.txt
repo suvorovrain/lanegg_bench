@@ -1,0 +1,4 @@
+1,?sub (<coauthor>)+ ?obj
+2,?sub (<coauthor>)+ ?obj
+1,?sub (<coauthor>)+ ?obj
+2,?sub (<coauthor>)+ ?obj

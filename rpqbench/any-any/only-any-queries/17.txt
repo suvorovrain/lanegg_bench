@@ -1,0 +1,4 @@
+1,?sub (<editor>|<creator>)/(<predecessor>|<coauthor>) ?obj
+2,?sub (<editor>|<creator>)/(<predecessor>|<coauthor>) ?obj
+1,?sub (<editor>|<creator>)/(<predecessor>|<coauthor>) ?obj
+2,?sub (<editor>|<creator>)/(<predecessor>|<coauthor>) ?obj

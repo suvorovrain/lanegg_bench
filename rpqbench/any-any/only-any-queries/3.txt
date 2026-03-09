@@ -1,0 +1,4 @@
+1,?sub (<references>/<cite>/<creator>)|(<creator>/<coauthor>/<coauthor>) ?obj
+2,?sub (<references>/<cite>/<creator>)|(<creator>/<coauthor>/<coauthor>) ?obj
+1,?sub (<references>/<cite>/<creator>)|(<creator>/<coauthor>/<coauthor>) ?obj
+2,?sub (<references>/<cite>/<creator>)|(<creator>/<coauthor>/<coauthor>) ?obj

@@ -1,0 +1,4 @@
+1,<Article57729> (<references>/<cite>/<creator>)|(<creator>/<coauthor>/<coauthor>) ?obj
+1,<Article57729> (<references>/<cite>/<creator>)|(<creator>/<coauthor>/<coauthor>) ?obj
+1,<Article57729> (<references>/<cite>/<creator>)|(<creator>/<coauthor>/<coauthor>) ?obj
+1,<Article57729> (<references>/<cite>/<creator>)|(<creator>/<coauthor>/<coauthor>) ?obj

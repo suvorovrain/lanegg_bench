@@ -1,0 +1,4 @@
+1,?sub (<coauthor>)*/<predecessor> ?obj
+2,?sub (<coauthor>)*/<predecessor> ?obj
+1,?sub (<coauthor>)*/<predecessor> ?obj
+2,?sub (<coauthor>)*/<predecessor> ?obj
